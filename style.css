@@ -1,0 +1,66 @@
+
+body {
+  margin: 0%;
+	background-color: #E5E7E9;
+
+}
+
+
+.topnav {
+  background-color: #fff;
+  padding: 15px 1px 15px 1px;
+  text-align: right;
+  position: fixed;
+  width: 100%;
+}
+
+
+.topnav a {
+  padding: 10px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #7F8C8D;
+}
+
+
+.topnav a:hover {
+  background-color: #E5E7E9;
+  color: black;
+}
+
+.name {
+ float: left;
+}
+
+.pp {
+  margin-left: auto;
+  margin-right: auto;
+  height: 20% ;
+  width: 10%;
+  border-radius: 50%;
+  display: block;
+}
+
+.name1 {
+  text-align: center;
+}
+
+.logo {
+  height: 20px;
+  width: 20px;
+  padding-right: 5px;
+}
+
+.logoo {
+  height: 20px;
+  width: 20px;
+  padding-left: 5px;
+
+}
+
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
